@@ -11,7 +11,7 @@ public class EntradaScaner {
 
 
 
-            int numeroDecimal = 0;
+            int numeroDecimal = 2;
 
             try {
 
