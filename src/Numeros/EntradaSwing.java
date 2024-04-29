@@ -1,3 +1,5 @@
+package Numeros;
+
 import javax.swing.*;
 
 public class EntradaSwing {
